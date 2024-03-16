@@ -1,4 +1,4 @@
-- 👋 Hi, I’m RAHULREWAR
+- 👋 Hi, I’m RAHUL REWAR
 - 👀 I’m interested in front-end React.js Development.
 - 🌱 I’m currently learning typeScript and next.js
 - 💞️ I’m looking to collaborate on front-end development.
