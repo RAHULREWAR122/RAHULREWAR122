@@ -1,6 +1,5 @@
 - 👋 Hi, I’m RAHUL REWAR
 - 👀 I’m interested in front-end React.js , Next Js Development.
-- 🌱 I’m currently learning typeScript and Jest testing Library
 - 💞️ I’m looking to collaborate on front-end development.
 - 📫 How to reach me github : https://github.com/RAHULREWAR122    ,Linkedin: www.linkedin.com/in/rahul-rewar-202517276  , youtube : https://www.youtube.com/@rahulrewarnewvideo9824
 - ⚡ Fun fact: ...
